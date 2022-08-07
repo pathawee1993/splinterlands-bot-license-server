@@ -2,7 +2,7 @@ const mqtt = require('mqtt')
 const client  = mqtt.connect('mqtt://broker.mqttdashboard.com')
 const crypto = require('crypto');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
-const creds = require('./happy-garden-258516-3743009a02a6.json'); // the file saved above
+const creds = require('./splinterlands-bot-355900-ef57de37996e.json'); // the file saved above
 const doc = new GoogleSpreadsheet('10Xip5sqF2gNL1ixcSFdKk0qccYAvV3e366-C9jMsNB4');
 const CronJob = require('cron').CronJob;
 

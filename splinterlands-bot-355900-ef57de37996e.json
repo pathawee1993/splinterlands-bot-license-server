@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "splinterlands-bot-355900",
+  "private_key_id": "ef57de37996e5e0d765cdc8304f48865943d98b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGzz8qLRYKKk6K\nDS7B/QSD+dNV2ibJiTrNQrstBJxA3kGBTVlHQEJYz94HBHiHB8BB3anuzg9B8VPw\nt+6VPpmpj9TCArJWD8fpJkM77Tu0w3qkPLSK0CZVyEpPCiJA1mUUPbB3rhl3r9oD\nNbn3Xro796ZOABWJOpmkqJU14nzWf1NUanKyeBKp4v4giuzEv/S+WYl3ltrTj1Mr\nqIt3yiI23qQZxFoAyNMKX5edsZtrWGnyMuXoSKfxXWl1PhWenOTHw+WGORBwm3Uo\nbmUTxZ1WEoIx44S4st4OEQReEmm4zS/aW77j+mVuZjecQQ6DZhjr91y4gJfDlCkp\n5/zs4+AxAgMBAAECggEABNlHYLmUhucw/u4zIJ1Rg7//MuH1DfeEOP8ahk6tWmop\nRhRrO+EB9T1NnJVz9JQgcOLNexLovZqbidyMi7SJBiEJRvmOnKl6HlI189NVgFM/\nrZuC6jtJIhC2Wj7kprjr4m5ePE8BVUFTU353FITJjT6dHlwjalNE7caETBoD4i3R\n+WR/K/feDXSYhoFT6DfS7h3K7NkrCNUXImS2NFn+fFLSSB1xWg5JE2Tx3yJU3OwY\nLc04M9mi97TCleSjpczPf/uwK36XKYVvM7BWh3kpTG3rnbmxnF/U7p8gEwh6aTxf\nQd0/OkqcyMdaHzPHaUCJewuEOItT+wOGsLV4DKdOGQKBgQD8PEMIedY4y5Vx+3k9\n71dX8S05JG+pfp3s4W2lJfhKbuuQpN0IC55R8THjnlyN5jhw+uNnzi+PKuZoHCdy\n7cv/aDpNNFBh4iyrFQ2ThVslTX26c6w15f214Td+UvDZEgtacm99ZLeBb3+IJz0Q\n6JNH9bkmPakYfCIN+7MQXLR8WQKBgQDJxtslrV1RcCrV0s8b/0Yxn0VVIIv5S3ku\ny9OJ/udZzWLK6cQwlYHFmWKsoyVnpqVPz5Yfp6XE0K3GNBMqW7I8ooPx3JaNqkP9\nfPqj0e8Zn4T6F0HDxVz/lNicgD3c2sPBtUffyq7335FGSBX4g7+UWOI3gtyy0RWe\nnctqZDQnmQKBgQDUL3GIgM24C3LVZuHQOzYzsZwEdOVGJVB+xAhzpCRhoTui+z1B\nFl0Bu6/nNgHQEPor+LIyUd3qRwF6VSzOXsJ8QdbBuZ9hKF3BMb2w+r74+14n6kTV\nNnuedC41o1oekTJhzOCDEKXaScxz4eZaAfxbzZcKV1aXVV1ke/dfbU0bSQKBgEXC\njI2wLG01fHnEkno5fYk2aYAO6pXb9B+rtI0nJdE0Yw2IWJ37coxghW7uUMZPJSQ8\nvshe677p7spxwpaIcUzpWvjJrPt5fFwtU3JD6IhRUGYumDwZBhgO2/zvkXPD5p4Y\nEKtcpbVpBA7qaT4sPpYJTNyoT6k7BGB8aZF051sxAoGBAPWXxqGf2lB+1f+reES9\ns5VfxCpN3WyTWbzPJHe0FzNW0BJ7i/yQhrG+TP+Gb4b97bOKAsV2g3X+RMBchhk9\ns5MlhYCcL+SRJFdvB2GK7ADjMTEEp06+qX9dahjSabPCHjhGVBEgpug0WwOrP3Qj\niKEjYhq/WJZuod48I/V/1fwt\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheet@splinterlands-bot-355900.iam.gserviceaccount.com",
+  "client_id": "106297731851008192889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheet%40splinterlands-bot-355900.iam.gserviceaccount.com"
+}
